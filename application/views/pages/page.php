@@ -170,7 +170,7 @@
 		$(this).addClass('active');
 	})
 
-	$(document).ready(function(){
+
 		if($('.present').find('.team-block-two').length !== 0){
 			$('.present-tab').click();
 			$('.present-tab').addClass('active')
@@ -178,5 +178,5 @@
 			$('.past-tab').click();
 			$('.past-tab').addClass('active');
 		}
-	})
+
 </script>
