@@ -1,0 +1,85 @@
+[28-Jun-2021 07:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Image_lib::display_dangers() in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php:195
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php(88): Specialities->createthumbs(Array)
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Specialities->save()
+#2 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php on line 195
+[28-Jun-2021 07:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Image_lib::display_dangers() in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php:195
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php(88): Specialities->createthumbs(Array)
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Specialities->save()
+#2 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php on line 195
+[28-Jun-2021 07:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Image_lib::display_dangers() in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php:195
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php(88): Specialities->createthumbs(Array)
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Specialities->save()
+#2 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php on line 195
+[28-Jun-2021 07:44:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Image_lib::display_dangers() in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php:195
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php(88): Specialities->createthumbs(Array)
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Specialities->save()
+#2 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php on line 195
+[28-Jun-2021 07:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Image_lib::display_dangers() in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php:195
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php(88): Specialities->createthumbs(Array)
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Specialities->save()
+#2 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php on line 195
+[28-Jun-2021 07:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Image_lib::display_dangers() in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php:195
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php(88): Specialities->createthumbs(Array)
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Specialities->save()
+#2 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php on line 195
+[28-Jun-2021 07:52:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Image_lib::display_dangers() in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php:196
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php(88): Specialities->createthumbs(Array)
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Specialities->save()
+#2 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/specialities.php on line 196
+[28-Jun-2021 09:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function viewdata() on null in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/master.php:178
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Master->pages_edit('2')
+#1 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/master.php on line 178
+[05-Jul-2021 03:59:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ajax::getslug(), 2 passed in /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php on line 360 and exactly 3 expected in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php:13
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Ajax->getslug('doctors_model', 'page_slug')
+#1 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php on line 13
+[05-Jul-2021 03:59:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ajax::getslug(), 2 passed in /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php on line 360 and exactly 3 expected in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php:13
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Ajax->getslug('doctors_model', 'page_slug')
+#1 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php on line 13
+[06-Jul-2021 07:34:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ajax::getslug(), 2 passed in /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php on line 360 and exactly 3 expected in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php:13
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Ajax->getslug('doctors_model', 'page_slug')
+#1 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php on line 13
+[09-Jul-2021 08:17:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ajax::getslug(), 2 passed in /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php on line 360 and exactly 3 expected in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php:13
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Ajax->getslug('doctors_model', 'page_slug')
+#1 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php on line 13
+[09-Jul-2021 08:17:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ajax::getslug(), 2 passed in /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php on line 360 and exactly 3 expected in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php:13
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Ajax->getslug('doctors_model', 'page_slug')
+#1 /home/mrk9dw5iwpss/public_html/new/admin/index.php(202): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application_admin/controllers/ajax.php on line 13

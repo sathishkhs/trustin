@@ -1,0 +1,54 @@
+[28-Jun-2021 10:09:52 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/mrk9dw5iwpss/public_html/new/application/controllers/pages.php:24
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Pages->index('about-us')
+#1 /home/mrk9dw5iwpss/public_html/new/index.php(204): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application/controllers/pages.php on line 24
+[28-Jun-2021 10:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Doctors_Model::view() in /home/mrk9dw5iwpss/public_html/new/application/core/MY_Controller.php:60
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application/controllers/index.php(6): MY_Controller->__construct()
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(309): Index->__construct()
+#2 /home/mrk9dw5iwpss/public_html/new/index.php(204): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application/core/MY_Controller.php on line 60
+[28-Jun-2021 10:33:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mrk9dw5iwpss/public_html/new/application/views/templates/includes/home_container.php on line 358
+[28-Jun-2021 10:41:51 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/mrk9dw5iwpss/public_html/new/application/views/templates/includes/navbar.php:28
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/Loader.php(833): include()
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/mrk9dw5iwpss/public_html/new/application/views/templates/home.php(20): CI_Loader->view('templates/inclu...')
+#3 /home/mrk9dw5iwpss/public_html/new/system/core/Loader.php(833): include('/home/mrk9dw5iw...')
+#4 /home/mrk9dw5iwpss/public_html/new/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/mrk9dw5iwpss/public_html/new/application/controllers/index.php(12): CI_Loader->view('templates/home', Array)
+#6 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Index->index()
+#7 /home/mrk9dw5iwpss/public_html/new/index.php(204): require_once('/home/mrk9dw5iw...')
+#8 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application/views/templates/includes/navbar.php on line 28
+[28-Jun-2021 13:05:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Contact_us::index(), 0 passed in /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php on line 360 and exactly 1 expected in /home/mrk9dw5iwpss/public_html/new/application/controllers/contact_us.php:15
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Contact_us->index()
+#1 /home/mrk9dw5iwpss/public_html/new/index.php(204): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application/controllers/contact_us.php on line 15
+[28-Jun-2021 15:00:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function view() on null in /home/mrk9dw5iwpss/public_html/new/application/core/MY_Controller.php:62
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application/controllers/pages.php(9): MY_Controller->__construct()
+#1 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(309): Pages->__construct()
+#2 /home/mrk9dw5iwpss/public_html/new/index.php(204): require_once('/home/mrk9dw5iw...')
+#3 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application/core/MY_Controller.php on line 62
+[28-Jun-2021 15:01:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Specialities_model::view(), 0 passed in /home/mrk9dw5iwpss/public_html/new/application/core/MY_Controller.php on line 63 and exactly 1 expected in /home/mrk9dw5iwpss/public_html/new/application/models/specialities_model.php:43
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/application/core/MY_Controller.php(63): Specialities_model->view()
+#1 /home/mrk9dw5iwpss/public_html/new/application/controllers/pages.php(9): MY_Controller->__construct()
+#2 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(309): Pages->__construct()
+#3 /home/mrk9dw5iwpss/public_html/new/index.php(204): require_once('/home/mrk9dw5iw...')
+#4 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application/models/specialities_model.php on line 43
+[01-Jul-2021 06:25:00 UTC] PHP Parse error:  syntax error, unexpected '" type="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/mrk9dw5iwpss/public_html/new/application/views/templates/includes/head.php on line 37
+[12-Jul-2021 10:38:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Index::get_doctors(), 0 passed in /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php on line 360 and exactly 1 expected in /home/mrk9dw5iwpss/public_html/new/application/controllers/index.php:110
+Stack trace:
+#0 /home/mrk9dw5iwpss/public_html/new/system/core/CodeIgniter.php(360): Index->get_doctors()
+#1 /home/mrk9dw5iwpss/public_html/new/index.php(204): require_once('/home/mrk9dw5iw...')
+#2 {main}
+  thrown in /home/mrk9dw5iwpss/public_html/new/application/controllers/index.php on line 110
