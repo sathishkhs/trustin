@@ -1,0 +1,15 @@
+drwxr-xr-x    7 19055105   users            4096 Jan 19 15:20 .
+drwxr-xr-x   15 19055105   users            4096 Jan 19 15:10 ..
+-rwxr-xr-x    1 19055105   users           38874 Jan 20 06:12 CHANGES.md
+-rwxr-xr-x    1 19055105   users           68193 Jan 20 06:12 LICENSE.md
+-rwxr-xr-x    1 19055105   users            1344 Jan 20 06:12 README.md
+drwxr-xr-x    2 19055105   users            4096 Jan 19 15:19 adapters
+-rwxr-xr-x    1 19055105   users            2744 Jan 20 06:12 build-config.js
+-rwxr-xr-x    1 19055105   users          506437 Jan 20 06:13 ckeditor.js
+-rwxr-xr-x    1 19055105   users             440 Jan 20 06:12 config.js
+-rwxr-xr-x    1 19055105   users            1475 Jan 20 06:12 contents.css
+drwxr-xr-x    2 19055105   users            8192 Jan 19 15:19 lang
+drwxr-xr-x   28 19055105   users            4096 Jan 19 15:21 plugins
+drwxr-xr-x    4 19055105   users            4096 Jan 19 15:21 samples
+drwxr-xr-x    3 19055105   users            4096 Jan 19 15:20 skins
+-rwxr-xr-x    1 19055105   users            3483 Jan 20 06:13 styles.js
